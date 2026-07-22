@@ -3,7 +3,7 @@
 An animated **solar system built entirely with CSS** — orbiting planets, no JavaScript. Authored in HAML & SCSS as a study in pure-CSS animation and 3D-style motion.
 
 ### 🔗 Live Demo
-**https://bipin-vishwakarma.github.io/Solar-System-Explorer-in-CSS-only/**
+**https://bipin-vishwakarma.github.io/CSS-Solar-System-Explorer/**
 
 ---
 
@@ -19,8 +19,8 @@ An animated **solar system built entirely with CSS** — orbiting planets, no Ja
 ## 🚀 Run Locally
 This project uses HAML & SCSS, which compile to HTML & CSS:
 ```bash
-git clone https://github.com/bipin-vishwakarma/Solar-System-Explorer-in-CSS-only.git
-cd Solar-System-Explorer-in-CSS-only
+git clone https://github.com/bipin-vishwakarma/CSS-Solar-System-Explorer.git
+cd CSS-Solar-System-Explorer
 # compile: haml index.haml index.html && sass style.scss style.css
 # then open index.html — or just view the live demo above
 ```
